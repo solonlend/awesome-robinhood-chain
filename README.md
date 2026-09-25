@@ -1,3 +1,5 @@
+> **Archived (2026-09-25).** SolonPad now focuses on Arc; this list is no longer maintained. Existing links are kept as-is.
+
 # Awesome Robinhood Chain [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 > A curated list of the Robinhood Chain ecosystem — tokenized stocks, DeFi, oracles, tooling, and autonomous agents.
